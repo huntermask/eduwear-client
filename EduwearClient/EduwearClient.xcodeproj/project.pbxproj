@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A567CFF1CE7E56900B42E11 /* GroupSummaryView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0A567CFE1CE7E56900B42E11 /* GroupSummaryView.xib */; };
+		0A567D081CE7E58D00B42E11 /* GroupSummaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A567D071CE7E58D00B42E11 /* GroupSummaryView.swift */; };
+		0A567D0A1CE7F16600B42E11 /* ClassroomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A567D091CE7F16600B42E11 /* ClassroomViewController.swift */; };
+		0A567D0C1CE7F55300B42E11 /* BaseCustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A567D0B1CE7F55300B42E11 /* BaseCustomView.swift */; };
 		0AF8ACC21CE7A34C0028D078 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF8ACC11CE7A34C0028D078 /* AppDelegate.swift */; };
 		0AF8ACC41CE7A34C0028D078 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF8ACC31CE7A34C0028D078 /* FirstViewController.swift */; };
 		0AF8ACC61CE7A34C0028D078 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF8ACC51CE7A34C0028D078 /* SecondViewController.swift */; };
@@ -84,6 +88,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0A567CFE1CE7E56900B42E11 /* GroupSummaryView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GroupSummaryView.xib; sourceTree = "<group>"; };
+		0A567D071CE7E58D00B42E11 /* GroupSummaryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GroupSummaryView.swift; sourceTree = "<group>"; };
+		0A567D091CE7F16600B42E11 /* ClassroomViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClassroomViewController.swift; sourceTree = "<group>"; };
+		0A567D0B1CE7F55300B42E11 /* BaseCustomView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseCustomView.swift; sourceTree = "<group>"; };
 		0AF8ACBE1CE7A34B0028D078 /* EduwearClient.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EduwearClient.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AF8ACC11CE7A34C0028D078 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0AF8ACC31CE7A34C0028D078 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -157,6 +165,10 @@
 				0AF8ACCA1CE7A34C0028D078 /* Assets.xcassets */,
 				0AF8ACCC1CE7A34C0028D078 /* LaunchScreen.storyboard */,
 				0AF8ACCF1CE7A34C0028D078 /* Info.plist */,
+				0A567CFE1CE7E56900B42E11 /* GroupSummaryView.xib */,
+				0A567D071CE7E58D00B42E11 /* GroupSummaryView.swift */,
+				0A567D091CE7F16600B42E11 /* ClassroomViewController.swift */,
+				0A567D0B1CE7F55300B42E11 /* BaseCustomView.swift */,
 			);
 			path = EduwearClient;
 			sourceTree = "<group>";
@@ -358,6 +370,7 @@
 				0AF8ACCE1CE7A34C0028D078 /* LaunchScreen.storyboard in Resources */,
 				0AF8ACCB1CE7A34C0028D078 /* Assets.xcassets in Resources */,
 				0AF8ACC91CE7A34C0028D078 /* Main.storyboard in Resources */,
+				0A567CFF1CE7E56900B42E11 /* GroupSummaryView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -384,7 +397,10 @@
 			files = (
 				0AF8ACC61CE7A34C0028D078 /* SecondViewController.swift in Sources */,
 				0AF8ACC21CE7A34C0028D078 /* AppDelegate.swift in Sources */,
+				0A567D0C1CE7F55300B42E11 /* BaseCustomView.swift in Sources */,
 				0AF8ACC41CE7A34C0028D078 /* FirstViewController.swift in Sources */,
+				0A567D0A1CE7F16600B42E11 /* ClassroomViewController.swift in Sources */,
+				0A567D081CE7E58D00B42E11 /* GroupSummaryView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
